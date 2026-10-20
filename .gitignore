@@ -1,0 +1,13 @@
+# Dependency & build
+inventory-laravel/vendor/
+inventory-laravel/node_modules/
+
+# Environment & secrets
+inventory-laravel/.env
+inventory-laravel/.env.backup
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
